@@ -43,8 +43,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Nau Media AG** Status Monitoring"
+  introMessage: Here, you can find real-time information about the operational status of our services, including our news platform and digital media content. We are committed to providing continuous access to our news coverage, and this page is your source for updates on any service interruptions or maintenance activities. Stay informed about the uptime and performance of Nau Media AG's digital offerings.
   navbar:
     - title: Status
       href: /
