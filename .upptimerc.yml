@@ -1,27 +1,46 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: Nau-media-AG # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Nau
+    url: https://www.nau.ch
+  - name: API Ping
+    url: https://api.nau.ch/monitoring/ping
+  - name: API Frontpage
+    url: https://api.nau.ch/v3/frontpage
+  - name: Nau Health
+    url: https://health.nau.ch
+  - name: Nau Living
+    url: https://living.nau.ch
+  - name: Nau Liebe
+    url: https://liebe.nau.ch
+  - name: Nau Luxury
+    url: https://luxury.nau.ch
+  - name: Nau Family
+    url: https://family.nau.ch
+  - name: Nau Food
+    url: https://food.nau.ch
+  - name: Nau Tiere
+    url: https://tiere.nau.ch
+  - name: Nau Travel
+    url: https://travel.nau.ch
+  - name: Nau Automobile
+    url: https://automobile.nau.ch
+  - name: Nau Techtrends
+    url: https://techtrends.nau.ch
+  - name: Nau Beauty
+    url: https://beauty.nau.ch
+  - name: Analytics
+    url: https://t.nau.ch
+  - name: Nau Media AG
+    url: https://nau-media.ch
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -29,8 +48,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
