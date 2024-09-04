@@ -44,7 +44,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Nau Media AG** Status Monitoring"
-  introMessage: Here, you can find real-time information about the operational status of our services, including our news platform and digital media content. We are committed to providing continuous access to our news coverage, and this page is your source for updates on any service interruptions or maintenance activities. Stay informed about the uptime and performance of Nau Media AG's digital offerings.
+  introMessage: "Here, you can find real-time information about the operational status of our services, including our news platform and digital media content. We are committed to providing continuous access to our news coverage, and this page is your source for updates on any service interruptions or maintenance activities. Stay informed about the uptime and performance of Nau Media AG's digital offerings. _Please note that response times are measured from the USA, which may affect latency and performance metrics displayed here._"
   navbar:
     - title: Status
       href: /
