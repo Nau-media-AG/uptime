@@ -48,7 +48,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-  robotsText: "User-agent: * \n Disallow: /"
+  robotsText: "User-agent: * \nDisallow: /"
+  metaTags:
+    - name: "robots"
+      content: "noindex"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
