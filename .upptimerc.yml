@@ -35,6 +35,10 @@ sites:
     url: https://t.nau.ch
   - name: Nau Media AG
     url: https://nau-media.ch
+  - name: Nau Bern
+    url: https://bern.nau.ch
+  - name: Nau Bern API
+    url: https://api.nau.ch/region-pages/pages?region=bern&path=/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
