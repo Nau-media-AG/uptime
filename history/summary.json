@@ -292,19 +292,19 @@
     "url": "https://bern.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/bern.nau.ch.ico",
     "slug": "nau-bern",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2169,
-    "timeDay": 1267,
-    "timeWeek": 2169,
-    "timeMonth": 2169,
-    "timeYear": 2169,
+    "status": "up",
+    "uptime": "98.60%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "98.60%",
+    "time": 2861,
+    "timeDay": 2721,
+    "timeWeek": 2861,
+    "timeMonth": 2861,
+    "timeYear": 2861,
     "dailyMinutesDown": {
-      "2024-09-13": 0
+      "2024-09-13": 43
     }
   },
   {
