@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/health.nau.ch.ico",
     "slug": "nau-health",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1649,
     "timeDay": 2145,
     "timeWeek": 1904,
     "timeMonth": 1649,
     "timeYear": 1649,
-    "dailyMinutesDown": {
-      "2024-09-13": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nau Living",
@@ -294,18 +292,20 @@
     "url": "https://bern.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/bern.nau.ch.ico",
     "slug": "nau-bern",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2395,
-    "timeDay": 1041,
-    "timeWeek": 2395,
-    "timeMonth": 2395,
-    "timeYear": 2395,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2169,
+    "timeDay": 1267,
+    "timeWeek": 2169,
+    "timeMonth": 2169,
+    "timeYear": 2169,
+    "dailyMinutesDown": {
+      "2024-09-13": 0
+    }
   },
   {
     "name": "Nau Bern API",
