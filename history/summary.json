@@ -58,18 +58,20 @@
     "url": "https://health.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/health.nau.ch.ico",
     "slug": "nau-health",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1622,
     "timeDay": 2144,
     "timeWeek": 1874,
     "timeMonth": 1622,
     "timeYear": 1622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-13": 1
+    }
   },
   {
     "name": "Nau Living",
