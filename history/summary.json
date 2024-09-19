@@ -330,19 +330,19 @@
     "url": "https://zurich.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/zurich.nau.ch.ico",
     "slug": "nau-zuerich",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 812,
-    "timeDay": 812,
-    "timeWeek": 812,
-    "timeMonth": 812,
-    "timeYear": 812,
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
+    "time": 950,
+    "timeDay": 950,
+    "timeWeek": 950,
+    "timeMonth": 950,
+    "timeYear": 950,
     "dailyMinutesDown": {
-      "2024-09-19": 0
+      "2024-09-19": 10
     }
   },
   {
