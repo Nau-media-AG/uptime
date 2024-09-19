@@ -37,6 +37,16 @@ sites:
     url: https://nau-media.ch
   - name: Nau Bern
     url: https://bern.nau.ch
+  - name: Nau Luzern
+    url: https://luzern.nau.ch
+  - name: Nau Zürich
+    url: https://zurich.nau.ch
+  - name: Nau Basel
+    url: https://basel.nau.ch
+  - name: Nau Aargau
+    url: https://aargau.nau.ch
+  - name: Nau Ost
+    url: https://ost.nau.ch
   - name: Nau Bern API
     url: https://api.nau.ch/region-pages/pages?region=bern&path=/
 
