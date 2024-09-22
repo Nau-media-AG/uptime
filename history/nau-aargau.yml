@@ -1,7 +1,7 @@
 url: https://aargau.nau.ch
-status: down
-code: 500
-responseTime: 3640
-lastUpdated: 2024-09-22T20:38:00.151Z
+status: up
+code: 200
+responseTime: 960
+lastUpdated: 2024-09-22T20:44:45.943Z
 startTime: 2024-09-19T03:41:33.784Z
 generator: Upptime <https://github.com/upptime/upptime>
