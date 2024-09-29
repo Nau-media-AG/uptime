@@ -76,18 +76,20 @@
     "url": "https://living.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/living.nau.ch.ico",
     "slug": "nau-living",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1511,
-    "timeDay": 1318,
-    "timeWeek": 1397,
-    "timeMonth": 1511,
-    "timeYear": 1511,
-    "dailyMinutesDown": {}
+    "time": 1502,
+    "timeDay": 1280,
+    "timeWeek": 1373,
+    "timeMonth": 1502,
+    "timeYear": 1502,
+    "dailyMinutesDown": {
+      "2024-09-29": 0
+    }
   },
   {
     "name": "Nau Liebe",
@@ -238,19 +240,19 @@
     "url": "https://beauty.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/beauty.nau.ch.ico",
     "slug": "nau-beauty",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1526,
-    "timeDay": 935,
-    "timeWeek": 1161,
-    "timeMonth": 1526,
-    "timeYear": 1526,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1509,
+    "timeDay": 920,
+    "timeWeek": 1134,
+    "timeMonth": 1509,
+    "timeYear": 1509,
     "dailyMinutesDown": {
-      "2024-09-29": 0
+      "2024-09-29": 8
     }
   },
   {
