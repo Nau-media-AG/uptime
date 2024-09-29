@@ -1,7 +1,7 @@
 url: https://travel.nau.ch
-status: down
-code: 500
-responseTime: 1510
-lastUpdated: 2024-09-29T18:08:12.097Z
+status: up
+code: 200
+responseTime: 1387
+lastUpdated: 2024-09-29T18:20:18.422Z
 startTime: 2024-09-04T00:34:17.155Z
 generator: Upptime <https://github.com/upptime/upptime>
