@@ -76,19 +76,19 @@
     "url": "https://living.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/living.nau.ch.ico",
     "slug": "nau-living",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1460,
-    "timeDay": 1201,
-    "timeWeek": 1295,
-    "timeMonth": 1460,
-    "timeYear": 1460,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1445,
+    "timeDay": 1159,
+    "timeWeek": 1263,
+    "timeMonth": 1445,
+    "timeYear": 1445,
     "dailyMinutesDown": {
-      "2024-09-29": 8
+      "2024-09-29": 1
     }
   },
   {
@@ -132,17 +132,17 @@
     "url": "https://family.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/family.nau.ch.ico",
     "slug": "nau-family",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.47%",
+    "uptimeDay": "98.44%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1564,
-    "timeDay": 1196,
-    "timeWeek": 1354,
-    "timeMonth": 1564,
-    "timeYear": 1564,
+    "time": 1565,
+    "timeDay": 1232,
+    "timeWeek": 1369,
+    "timeMonth": 1565,
+    "timeYear": 1565,
     "dailyMinutesDown": {
       "2024-09-29": 22
     }
@@ -308,7 +308,7 @@
     "uptimeYear": "99.84%",
     "time": 1448,
     "timeDay": 1094,
-    "timeWeek": 1059,
+    "timeWeek": 1054,
     "timeMonth": 1448,
     "timeYear": 1448,
     "dailyMinutesDown": {
@@ -346,7 +346,7 @@
     "uptimeYear": "100.00%",
     "time": 1119,
     "timeDay": 1106,
-    "timeWeek": 1165,
+    "timeWeek": 1115,
     "timeMonth": 1119,
     "timeYear": 1119,
     "dailyMinutesDown": {}
@@ -364,7 +364,7 @@
     "uptimeYear": "100.00%",
     "time": 1147,
     "timeDay": 933,
-    "timeWeek": 1193,
+    "timeWeek": 979,
     "timeMonth": 1147,
     "timeYear": 1147,
     "dailyMinutesDown": {}
@@ -382,7 +382,7 @@
     "uptimeYear": "100.00%",
     "time": 1326,
     "timeDay": 934,
-    "timeWeek": 1444,
+    "timeWeek": 1170,
     "timeMonth": 1326,
     "timeYear": 1326,
     "dailyMinutesDown": {}
@@ -400,7 +400,7 @@
     "uptimeYear": "100.00%",
     "time": 1106,
     "timeDay": 980,
-    "timeWeek": 1087,
+    "timeWeek": 1029,
     "timeMonth": 1106,
     "timeYear": 1106,
     "dailyMinutesDown": {}
