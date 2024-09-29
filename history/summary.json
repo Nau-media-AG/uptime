@@ -220,18 +220,20 @@
     "url": "https://techtrends.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/techtrends.nau.ch.ico",
     "slug": "nau-techtrends",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1611,
-    "timeDay": 1465,
-    "timeWeek": 1577,
-    "timeMonth": 1611,
-    "timeYear": 1611,
-    "dailyMinutesDown": {}
+    "time": 1600,
+    "timeDay": 1332,
+    "timeWeek": 1530,
+    "timeMonth": 1600,
+    "timeYear": 1600,
+    "dailyMinutesDown": {
+      "2024-09-29": 0
+    }
   },
   {
     "name": "Nau Beauty",
