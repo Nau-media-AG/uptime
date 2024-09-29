@@ -131,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/family.nau.ch.ico",
     "slug": "nau-family",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1603,
     "timeDay": 1222,
     "timeWeek": 1416,
     "timeMonth": 1603,
     "timeYear": 1603,
-    "dailyMinutesDown": {
-      "2024-09-29": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nau Food",
@@ -151,19 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/food.nau.ch.ico",
     "slug": "nau-food",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1597,
     "timeDay": 1146,
     "timeWeek": 1395,
     "timeMonth": 1597,
     "timeYear": 1597,
-    "dailyMinutesDown": {
-      "2024-09-29": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nau Tiere",
@@ -242,18 +238,20 @@
     "url": "https://beauty.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/beauty.nau.ch.ico",
     "slug": "nau-beauty",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1509,
-    "timeDay": 920,
-    "timeWeek": 1134,
-    "timeMonth": 1509,
-    "timeYear": 1509,
-    "dailyMinutesDown": {}
+    "time": 1491,
+    "timeDay": 889,
+    "timeWeek": 1101,
+    "timeMonth": 1491,
+    "timeYear": 1491,
+    "dailyMinutesDown": {
+      "2024-09-29": 0
+    }
   },
   {
     "name": "Analytics",
