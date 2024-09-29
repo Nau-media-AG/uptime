@@ -130,19 +130,19 @@
     "url": "https://family.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/family.nau.ch.ico",
     "slug": "nau-family",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1609,
-    "timeDay": 1204,
-    "timeWeek": 1423,
-    "timeMonth": 1609,
-    "timeYear": 1609,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1603,
+    "timeDay": 1222,
+    "timeWeek": 1416,
+    "timeMonth": 1603,
+    "timeYear": 1603,
     "dailyMinutesDown": {
-      "2024-09-29": 0
+      "2024-09-29": 9
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://food.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/food.nau.ch.ico",
     "slug": "nau-food",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1609,
-    "timeDay": 1154,
-    "timeWeek": 1423,
-    "timeMonth": 1609,
-    "timeYear": 1609,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1597,
+    "timeDay": 1146,
+    "timeWeek": 1395,
+    "timeMonth": 1597,
+    "timeYear": 1597,
     "dailyMinutesDown": {
-      "2024-09-29": 0
+      "2024-09-29": 9
     }
   },
   {
