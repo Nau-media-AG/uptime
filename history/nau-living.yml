@@ -1,7 +1,7 @@
 url: https://living.nau.ch
-status: up
-code: 200
-responseTime: 1422
-lastUpdated: 2024-09-29T17:00:37.651Z
+status: down
+code: 500
+responseTime: 1045
+lastUpdated: 2024-09-29T18:07:59.477Z
 startTime: 2024-09-04T00:34:04.459Z
 generator: Upptime <https://github.com/upptime/upptime>
