@@ -112,19 +112,19 @@
     "url": "https://luxury.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/luxury.nau.ch.ico",
     "slug": "nau-luxury",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1578,
-    "timeDay": 1206,
-    "timeWeek": 1489,
-    "timeMonth": 1578,
-    "timeYear": 1578,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1600,
+    "timeDay": 1610,
+    "timeWeek": 1592,
+    "timeMonth": 1600,
+    "timeYear": 1600,
     "dailyMinutesDown": {
-      "2024-09-29": 0
+      "2024-09-29": 9
     }
   },
   {
