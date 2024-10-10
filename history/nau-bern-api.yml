@@ -1,7 +1,7 @@
 url: https://api.nau.ch/region-pages/pages?region=bern&path=/
-status: down
-code: 503
-responseTime: 495
-lastUpdated: 2024-10-10T18:10:04.385Z
+status: up
+code: 200
+responseTime: 4002
+lastUpdated: 2024-10-10T18:23:34.826Z
 startTime: 2024-09-11T06:00:40.645Z
 generator: Upptime <https://github.com/upptime/upptime>
