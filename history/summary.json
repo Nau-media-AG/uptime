@@ -76,18 +76,20 @@
     "url": "https://living.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/living.nau.ch.ico",
     "slug": "nau-living",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1342,
-    "timeDay": 598,
-    "timeWeek": 803,
-    "timeMonth": 1303,
-    "timeYear": 1342,
-    "dailyMinutesDown": {}
+    "time": 1410,
+    "timeDay": 3134,
+    "timeWeek": 1412,
+    "timeMonth": 1392,
+    "timeYear": 1410,
+    "dailyMinutesDown": {
+      "2024-10-10": 1
+    }
   },
   {
     "name": "Nau Liebe",
