@@ -1,7 +1,7 @@
 url: https://basel.nau.ch
-status: up
-code: 200
-responseTime: 751
-lastUpdated: 2024-10-09T23:06:53.712Z
+status: down
+code: 500
+responseTime: 509
+lastUpdated: 2024-10-10T18:09:54.817Z
 startTime: 2024-09-19T03:41:32.259Z
 generator: Upptime <https://github.com/upptime/upptime>
