@@ -302,18 +302,19 @@
     "url": "https://bern.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/bern.nau.ch.ico",
     "slug": "nau-bern",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1262,
-    "timeDay": 742,
-    "timeWeek": 800,
-    "timeMonth": 1097,
-    "timeYear": 1262,
+    "time": 1264,
+    "timeDay": 1049,
+    "timeWeek": 846,
+    "timeMonth": 1103,
+    "timeYear": 1264,
     "dailyMinutesDown": {
+      "2024-10-22": 0,
       "2024-09-13": 43
     }
   },
@@ -322,36 +323,40 @@
     "url": "https://luzern.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/luzern.nau.ch.ico",
     "slug": "nau-luzern",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1147,
-    "timeDay": 731,
-    "timeWeek": 930,
-    "timeMonth": 1159,
-    "timeYear": 1147,
-    "dailyMinutesDown": {}
+    "time": 1145,
+    "timeDay": 918,
+    "timeWeek": 952,
+    "timeMonth": 1157,
+    "timeYear": 1145,
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "Nau Zürich",
     "url": "https://zurich.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/zurich.nau.ch.ico",
     "slug": "nau-zuerich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1202,
-    "timeDay": 759,
-    "timeWeek": 876,
-    "timeMonth": 1229,
-    "timeYear": 1202,
-    "dailyMinutesDown": {}
+    "time": 1193,
+    "timeDay": 810,
+    "timeWeek": 874,
+    "timeMonth": 1218,
+    "timeYear": 1193,
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "Nau Basel",
@@ -412,17 +417,19 @@
     "url": "https://api.nau.ch/region-pages/pages?region=bern&path=/",
     "icon": "https://icons.duckduckgo.com/ip3/api.nau.ch.ico",
     "slug": "nau-bern-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 935,
-    "timeDay": 638,
-    "timeWeek": 768,
-    "timeMonth": 843,
+    "timeDay": 807,
+    "timeWeek": 794,
+    "timeMonth": 847,
     "timeYear": 935,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   }
 ]
