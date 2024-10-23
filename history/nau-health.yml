@@ -1,7 +1,7 @@
 url: https://health.nau.ch
-status: down
-code: 500
-responseTime: 783
-lastUpdated: 2024-10-23T10:09:13.968Z
+status: up
+code: 200
+responseTime: 1556
+lastUpdated: 2024-10-23T10:32:38.181Z
 startTime: 2024-09-04T00:34:02.571Z
 generator: Upptime <https://github.com/upptime/upptime>
