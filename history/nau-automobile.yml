@@ -1,7 +1,7 @@
 url: https://automobile.nau.ch
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-09T14:04:42.304Z
+status: up
+code: 200
+responseTime: 1175
+lastUpdated: 2024-11-09T14:12:49.835Z
 startTime: 2024-09-04T00:34:19.330Z
 generator: Upptime <https://github.com/upptime/upptime>
