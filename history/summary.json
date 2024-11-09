@@ -401,19 +401,19 @@
     "url": "https://aargau.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/aargau.nau.ch.ico",
     "slug": "nau-aargau",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1001,
-    "timeDay": 712,
-    "timeWeek": 1083,
-    "timeMonth": 893,
-    "timeYear": 1001,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1012,
+    "timeDay": 1187,
+    "timeWeek": 1155,
+    "timeMonth": 913,
+    "timeYear": 1012,
     "dailyMinutesDown": {
-      "2024-11-09": 0
+      "2024-11-09": 7
     }
   },
   {
