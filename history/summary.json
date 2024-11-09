@@ -263,18 +263,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/beauty.nau.ch.ico",
     "slug": "nau-beauty",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.84%",
     "time": 1207,
     "timeDay": 1166,
     "timeWeek": 934,
     "timeMonth": 994,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2024-11-09": 11,
       "2024-10-23": 24,
       "2024-09-30": 88,
       "2024-09-29": 43
@@ -402,9 +401,9 @@
     "url": "https://aargau.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/aargau.nau.ch.ico",
     "slug": "nau-aargau",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -413,7 +412,9 @@
     "timeWeek": 1083,
     "timeMonth": 893,
     "timeYear": 1001,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-09": 0
+    }
   },
   {
     "name": "Nau Ost",
