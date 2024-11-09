@@ -223,11 +223,11 @@
     "url": "https://automobile.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/automobile.nau.ch.ico",
     "slug": "nau-automobile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.87%",
     "time": 1184,
     "timeDay": 1623,
@@ -235,6 +235,7 @@
     "timeMonth": 975,
     "timeYear": 1184,
     "dailyMinutesDown": {
+      "2024-11-09": 1,
       "2024-10-23": 23,
       "2024-09-30": 98
     }
@@ -402,19 +403,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/aargau.nau.ch.ico",
     "slug": "nau-aargau",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1012,
     "timeDay": 1187,
     "timeWeek": 1155,
     "timeMonth": 913,
     "timeYear": 1012,
-    "dailyMinutesDown": {
-      "2024-11-09": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nau Ost",
