@@ -1,7 +1,7 @@
 url: https://zurich.nau.ch
-status: down
-code: 500
-responseTime: 381
-lastUpdated: 2024-11-11T04:51:57.963Z
+status: up
+code: 200
+responseTime: 1059
+lastUpdated: 2024-11-11T04:58:40.886Z
 startTime: 2024-09-19T03:41:30.692Z
 generator: Upptime <https://github.com/upptime/upptime>
