@@ -205,9 +205,9 @@
     "slug": "nau-travel",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.94%",
     "time": 1205,
     "timeDay": 653,
@@ -215,7 +215,6 @@
     "timeMonth": 911,
     "timeYear": 1205,
     "dailyMinutesDown": {
-      "2024-11-11": 5,
       "2024-11-10": 32,
       "2024-10-23": 23
     }
@@ -246,9 +245,9 @@
     "url": "https://techtrends.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/techtrends.nau.ch.ico",
     "slug": "nau-techtrends",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -257,7 +256,9 @@
     "timeWeek": 1085,
     "timeMonth": 999,
     "timeYear": 1291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-11": 0
+    }
   },
   {
     "name": "Nau Beauty",
