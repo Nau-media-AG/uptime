@@ -245,19 +245,19 @@
     "url": "https://techtrends.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/techtrends.nau.ch.ico",
     "slug": "nau-techtrends",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1291,
-    "timeDay": 540,
-    "timeWeek": 1085,
-    "timeMonth": 999,
-    "timeYear": 1291,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1285,
+    "timeDay": 635,
+    "timeWeek": 1040,
+    "timeMonth": 991,
+    "timeYear": 1285,
     "dailyMinutesDown": {
-      "2024-11-11": 0
+      "2024-11-11": 8
     }
   },
   {
