@@ -285,19 +285,19 @@
     "url": "https://t.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/t.nau.ch.ico",
     "slug": "analytics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 518,
-    "timeWeek": 449,
-    "timeMonth": 473,
-    "timeYear": 477,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 475,
+    "timeDay": 459,
+    "timeWeek": 437,
+    "timeMonth": 469,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2024-11-13": 0
+      "2024-11-13": 13
     }
   },
   {
