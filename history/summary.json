@@ -65,18 +65,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/health.nau.ch.ico",
     "slug": "nau-health",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 1363,
     "timeDay": 1062,
     "timeWeek": 790,
     "timeMonth": 983,
     "timeYear": 1363,
     "dailyMinutesDown": {
-      "2024-11-14": 5,
       "2024-10-23": 23
     }
   },
@@ -85,11 +84,11 @@
     "url": "https://living.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/living.nau.ch.ico",
     "slug": "nau-living",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 1230,
     "timeDay": 522,
@@ -97,6 +96,7 @@
     "timeMonth": 918,
     "timeYear": 1230,
     "dailyMinutesDown": {
+      "2024-11-14": 1,
       "2024-10-23": 23
     }
   },
