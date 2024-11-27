@@ -263,9 +263,9 @@
     "url": "https://beauty.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/beauty.nau.ch.ico",
     "slug": "nau-beauty",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
@@ -275,6 +275,7 @@
     "timeMonth": 848,
     "timeYear": 1149,
     "dailyMinutesDown": {
+      "2024-11-27": 0,
       "2024-10-23": 24,
       "2024-09-30": 88,
       "2024-09-29": 43
@@ -384,19 +385,19 @@
     "url": "https://basel.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/basel.nau.ch.ico",
     "slug": "nau-basel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 947,
-    "timeDay": 976,
-    "timeWeek": 1044,
-    "timeMonth": 850,
-    "timeYear": 947,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 945,
+    "timeDay": 886,
+    "timeWeek": 1019,
+    "timeMonth": 849,
+    "timeYear": 945,
     "dailyMinutesDown": {
-      "2024-11-27": 0
+      "2024-11-27": 7
     }
   },
   {
