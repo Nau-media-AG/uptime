@@ -187,9 +187,9 @@
     "url": "https://tiere.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/tiere.nau.ch.ico",
     "slug": "nau-tiere",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -198,7 +198,9 @@
     "timeWeek": 976,
     "timeMonth": 943,
     "timeYear": 1268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-28": 0
+    }
   },
   {
     "name": "Nau Travel",
