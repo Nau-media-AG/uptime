@@ -86,9 +86,9 @@
     "slug": "nau-living",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 1257,
     "timeDay": 1017,
@@ -96,7 +96,7 @@
     "timeMonth": 1096,
     "timeYear": 1257,
     "dailyMinutesDown": {
-      "2024-11-28": 24,
+      "2024-11-28": 18,
       "2024-11-27": 3,
       "2024-10-23": 23
     }
@@ -108,18 +108,16 @@
     "slug": "nau-liebe",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1206,
     "timeDay": 1271,
     "timeWeek": 1085,
     "timeMonth": 947,
     "timeYear": 1206,
-    "dailyMinutesDown": {
-      "2024-11-28": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nau Luxury",
@@ -351,9 +349,9 @@
     "slug": "nau-luzern",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 1112,
     "timeDay": 2279,
@@ -361,7 +359,7 @@
     "timeMonth": 1181,
     "timeYear": 1112,
     "dailyMinutesDown": {
-      "2024-11-28": 22,
+      "2024-11-28": 18,
       "2024-11-27": 1,
       "2024-10-23": 23,
       "2024-10-22": 23
@@ -410,19 +408,19 @@
     "url": "https://aargau.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/aargau.nau.ch.ico",
     "slug": "nau-aargau",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 987,
-    "timeDay": 873,
-    "timeWeek": 1109,
-    "timeMonth": 959,
+    "timeDay": 925,
+    "timeWeek": 1101,
+    "timeMonth": 961,
     "timeYear": 987,
     "dailyMinutesDown": {
-      "2024-11-28": 0
+      "2024-11-28": 5
     }
   },
   {
