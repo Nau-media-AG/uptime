@@ -9,6 +9,8 @@ sites:
     url: https://api.nau.ch/monitoring/ping
   - name: API Frontpage
     url: https://api.nau.ch/v3/frontpage
+  - name: Nau Frontpage
+    url: https://api.nau.ch/frontpage/pages?path=/
   - name: Nau Health
     url: https://health.nau.ch
   - name: Nau Living
@@ -49,7 +51,7 @@ sites:
     url: https://ost.nau.ch
   - name: Nau Bern API
     url: https://api.nau.ch/region-pages/pages?region=bern&path=/
-
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
