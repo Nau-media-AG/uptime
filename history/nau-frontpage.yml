@@ -1,7 +1,7 @@
 url: https://api.nau.ch/frontpage/pages?path=/
-status: down
-code: 503
-responseTime: 123
-lastUpdated: 2025-03-19T04:24:46.107Z
+status: up
+code: 200
+responseTime: 1236
+lastUpdated: 2025-03-19T04:34:33.890Z
 startTime: 2025-03-18T04:09:31.990Z
 generator: Upptime <https://github.com/upptime/upptime>
