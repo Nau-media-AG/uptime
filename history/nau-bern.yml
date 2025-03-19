@@ -1,7 +1,7 @@
 url: https://bern.nau.ch
-status: up
-code: 200
-responseTime: 928
-lastUpdated: 2025-03-18T23:06:02.365Z
+status: down
+code: 500
+responseTime: 10030
+lastUpdated: 2025-03-19T04:25:26.880Z
 startTime: 2024-09-11T06:00:35.509Z
 generator: Upptime <https://github.com/upptime/upptime>
