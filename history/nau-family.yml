@@ -1,7 +1,7 @@
 url: https://family.nau.ch
-status: up
-code: 200
-responseTime: 831
-lastUpdated: 2025-03-18T23:05:53.074Z
+status: down
+code: 503
+responseTime: 488
+lastUpdated: 2025-03-19T04:24:58.471Z
 startTime: 2024-09-04T00:34:10.296Z
 generator: Upptime <https://github.com/upptime/upptime>
