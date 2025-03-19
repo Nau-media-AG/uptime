@@ -1,7 +1,7 @@
 url: https://food.nau.ch
-status: up
-code: 200
-responseTime: 856
-lastUpdated: 2025-03-18T23:05:54.114Z
+status: down
+code: 503
+responseTime: 389
+lastUpdated: 2025-03-19T04:25:00.802Z
 startTime: 2024-09-04T00:34:12.468Z
 generator: Upptime <https://github.com/upptime/upptime>
