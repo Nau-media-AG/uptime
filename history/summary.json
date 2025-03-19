@@ -6,9 +6,9 @@
     "slug": "nau",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1271,
     "timeDay": 1047,
@@ -16,7 +16,6 @@
     "timeMonth": 1160,
     "timeYear": 1271,
     "dailyMinutesDown": {
-      "2025-03-19": 10,
       "2024-10-23": 23
     }
   },
@@ -47,9 +46,9 @@
     "slug": "api-frontpage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 538,
     "timeDay": 476,
@@ -57,7 +56,6 @@
     "timeMonth": 537,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-03-19": 10,
       "2024-10-23": 23
     }
   },
@@ -66,19 +64,19 @@
     "url": "https://api.nau.ch/frontpage/pages?path=/",
     "icon": "https://icons.duckduckgo.com/ip3/api.nau.ch.ico",
     "slug": "nau-frontpage",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
-    "time": 661,
-    "timeDay": 732,
-    "timeWeek": 661,
-    "timeMonth": 661,
-    "timeYear": 661,
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 808,
+    "timeDay": 893,
+    "timeWeek": 808,
+    "timeMonth": 808,
+    "timeYear": 808,
     "dailyMinutesDown": {
-      "2025-03-19": 11
+      "2025-03-19": 10
     }
   },
   {
@@ -88,9 +86,9 @@
     "slug": "nau-health",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1290,
     "timeDay": 945,
@@ -98,7 +96,6 @@
     "timeMonth": 992,
     "timeYear": 1290,
     "dailyMinutesDown": {
-      "2025-03-19": 10,
       "2024-10-23": 23
     }
   },
@@ -109,9 +106,9 @@
     "slug": "nau-living",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1251,
     "timeDay": 967,
@@ -119,7 +116,6 @@
     "timeMonth": 1061,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2025-03-19": 10,
       "2024-11-28": 18,
       "2024-11-27": 3,
       "2024-10-23": 23
