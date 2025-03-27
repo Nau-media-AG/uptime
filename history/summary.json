@@ -327,9 +327,9 @@
     "url": "https://nau-media.ch",
     "icon": "https://icons.duckduckgo.com/ip3/nau-media.ch.ico",
     "slug": "nau-media-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -338,7 +338,9 @@
     "timeWeek": 1024,
     "timeMonth": 1010,
     "timeYear": 973,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-27": 0
+    }
   },
   {
     "name": "Nau Bern",
