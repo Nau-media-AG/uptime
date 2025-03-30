@@ -329,18 +329,16 @@
     "slug": "nau-media-ag",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 965,
     "timeDay": 776,
     "timeWeek": 976,
     "timeMonth": 951,
     "timeYear": 965,
-    "dailyMinutesDown": {
-      "2025-03-29": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nau Bern",
