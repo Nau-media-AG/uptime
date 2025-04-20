@@ -327,19 +327,19 @@
     "url": "https://nau-media.ch",
     "icon": "https://icons.duckduckgo.com/ip3/nau-media.ch.ico",
     "slug": "nau-media-ag",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 966,
-    "timeDay": 1144,
-    "timeWeek": 1050,
-    "timeMonth": 960,
-    "timeYear": 966,
+    "time": 967,
+    "timeDay": 1154,
+    "timeWeek": 1064,
+    "timeMonth": 965,
+    "timeYear": 967,
     "dailyMinutesDown": {
-      "2025-04-20": 0
+      "2025-04-20": 7
     }
   },
   {
