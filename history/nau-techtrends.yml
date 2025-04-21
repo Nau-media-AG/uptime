@@ -1,7 +1,7 @@
 url: https://techtrends.nau.ch
-status: up
-code: 200
-responseTime: 549
-lastUpdated: 2025-04-20T23:05:38.123Z
+status: down
+code: 500
+responseTime: 565
+lastUpdated: 2025-04-21T14:27:48.835Z
 startTime: 2024-09-04T00:34:21.090Z
 generator: Upptime <https://github.com/upptime/upptime>
