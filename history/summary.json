@@ -4,11 +4,11 @@
     "url": "https://www.nau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.nau.ch.ico",
     "slug": "nau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1131,
     "timeDay": 757,
@@ -16,6 +16,7 @@
     "timeMonth": 839,
     "timeYear": 1131,
     "dailyMinutesDown": {
+      "2025-05-10": 2,
       "2024-10-23": 23
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://api.nau.ch/monitoring/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.nau.ch.ico",
     "slug": "api-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 594,
@@ -36,6 +37,7 @@
     "timeMonth": 610,
     "timeYear": 594,
     "dailyMinutesDown": {
+      "2025-05-10": 2,
       "2025-04-21": 18,
       "2024-10-23": 23
     }
@@ -45,10 +47,10 @@
     "url": "https://api.nau.ch/v3/frontpage",
     "icon": "https://icons.duckduckgo.com/ip3/api.nau.ch.ico",
     "slug": "api-frontpage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 526,
@@ -57,6 +59,7 @@
     "timeMonth": 480,
     "timeYear": 526,
     "dailyMinutesDown": {
+      "2025-05-10": 1,
       "2025-04-21": 18,
       "2024-10-23": 23
     }
@@ -66,10 +69,10 @@
     "url": "https://api.nau.ch/frontpage/pages?path=/",
     "icon": "https://icons.duckduckgo.com/ip3/api.nau.ch.ico",
     "slug": "nau-frontpage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 454,
@@ -78,6 +81,7 @@
     "timeMonth": 263,
     "timeYear": 454,
     "dailyMinutesDown": {
+      "2025-05-10": 1,
       "2025-04-21": 18
     }
   },
