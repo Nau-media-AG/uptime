@@ -340,9 +340,9 @@
     "url": "https://nau-media.ch",
     "icon": "https://icons.duckduckgo.com/ip3/nau-media.ch.ico",
     "slug": "nau-media-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.07%",
     "uptimeYear": "99.68%",
@@ -352,6 +352,7 @@
     "timeMonth": 994,
     "timeYear": 970,
     "dailyMinutesDown": {
+      "2025-06-07": 0,
       "2025-05-12": 1230,
       "2025-05-11": 53
     }
